@@ -1,7 +1,7 @@
-# 设置Activity
+# Intent
 
-## 运行效果
+## 安卓第六次实验Intent
 
-![](https://ws1.sinaimg.cn/large/006dRdovgy1fqx2iugx8kj30cb0ms75x.jpg)
+![](https://i.loli.net/2018/05/14/5af8ea0e16c57.jpg)
 
-![](https://ws1.sinaimg.cn/large/006dRdovgy1fqx2jfkj2lj30cb0msabs.jpg)
+![](https://i.loli.net/2018/05/14/5af8ea2905492.jpg)
